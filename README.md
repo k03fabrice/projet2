@@ -16,20 +16,4 @@ Upload a video, select a target class, and get an annotated video with tracking 
 - `static/`: Uploads and results folder
 - `results/logs.csv`: Stores tracking logs
 
-## Installation
 
-### 🔹 Clone the repo
-
-```bash
-git clone https://github.com/YourUsername/object-tracking-app.git
-cd object-tracking-app
-# projet2
-# projet2
-# projet2
-# projet2
-# projet2
-# projet2
-# projet2
-# projet2
-# projet2
-# projet2
